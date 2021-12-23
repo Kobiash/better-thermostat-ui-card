@@ -1,0 +1,10 @@
+{
+  "common": {
+      "version": "גרסא"
+  },
+  "extra_states": {
+    "window_open": "חלון פתוח",
+    "night_mode": "מצב לילה",
+    "summer": "קיץ"
+  }
+}
